@@ -1,0 +1,12 @@
+name: AutoimmuneExplorer
+title: AutoimmuneExplorer
+username: lvh4y6-lastra
+account: lvh4y6-lastra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11685357
+bundleId:
+url: https://lvh4y6-lastra.shinyapps.io/AutoimmuneExplorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
