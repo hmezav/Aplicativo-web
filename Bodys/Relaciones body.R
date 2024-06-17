@@ -6,12 +6,11 @@ fluidPage(
   
   fluidRow(
     
-    h2("Relaciones entre genes y Lupus Eritematoso",align="center"),
+    h2("Relaciones entre genes",align="center"),
     
     p("Seleccionar un período para la búsqueda bibliográfica bajo la etiqueta 
 MESH:Autoinmune Diseases. Se obtiene un listado de genes relacionados a enfermedades autoinmunes distinguiendo 
-aquellos que hayn sido explícitamente mencioandos en abstracts de Pubmed clasificados bajo la etiqueta MESH:Lupus 
-Erythematosus, Systemic. Al seleccionar un gen de la lista puede realizarse una búsqueda en Pubmed del tipo: Lupus AND 
+aquellos que hayan sido explícitamente mencioandos en abstracts de Pubmed clasificados bajo la etiqueta MESH: Al seleccionar un gen de la lista puede realizarse una búsqueda en Pubmed del tipo: Lupus AND 
 nombre del gen -sin etiquetas MeSH- para explorar pubicaciones. De no hallarse publicaciones, esta herramienta puede 
 sugerir nuevos genes relacionados con el Lupus no descritos en bibliografía aún."),
     
