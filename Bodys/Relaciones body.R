@@ -10,9 +10,9 @@ fluidPage(
     
     p("Seleccionar un período para la búsqueda bibliográfica bajo la etiqueta 
 MESH:Autoinmune Diseases. Se obtiene un listado de genes relacionados a enfermedades autoinmunes distinguiendo 
-aquellos que hayan sido explícitamente mencioandos en abstracts de Pubmed clasificados bajo la etiqueta MESH: Al seleccionar un gen de la lista puede realizarse una búsqueda en Pubmed del tipo: Lupus AND 
+aquellos que hayan sido explícitamente mencioandos en abstracts de Pubmed clasificados bajo la etiqueta MESH: Al seleccionar un gen de la lista puede realizarse una búsqueda en Pubmed del tipo:
 nombre del gen -sin etiquetas MeSH- para explorar pubicaciones. De no hallarse publicaciones, esta herramienta puede 
-sugerir nuevos genes relacionados con el Lupus no descritos en bibliografía aún."),
+sugerir nuevos genes"),
     
     box(id="seleccEA", 
         title = "Seleccione  la información a mostrar:", solidHeader = T, 
